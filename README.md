@@ -1,4 +1,4 @@
-# Bloggy-CRUD.
+# Bloggy-CRUD
 
 A CRUD application for blogs that I call Bloggy.
 
